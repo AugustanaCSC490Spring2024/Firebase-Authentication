@@ -1,0 +1,53 @@
+dependencies: \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/build/macos/Build/Intermediates.noindex/Pods.build/Debug/firebase_auth.build/module.modulemap \
+  /Users/rijan/.pub-cache/hosted/pub.dev/firebase_auth-4.17.9/macos/Classes/PigeonParser.m \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/Target\ Support\ Files/firebase_auth/firebase_auth-prefix.pch \
+  /Users/rijan/.pub-cache/hosted/pub.dev/firebase_auth-4.17.9/macos/Classes/Private/PigeonParser.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/Headers/Public/Firebase/Firebase.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseCore.build/module.modulemap \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FirebaseAuth.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/build/macos/Build/Intermediates.noindex/Pods.build/Debug/FirebaseAuth.build/module.modulemap \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/Target\ Support\ Files/FirebaseAuth/FirebaseAuth-umbrella.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRActionCodeSettings.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAdditionalUserInfo.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthCredential.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthDataResult.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthSettings.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthTokenResult.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthUIDelegate.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIREmailAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFacebookAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRFederatedAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGameCenterAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGitHubAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGoogleAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactor.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorAssertion.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorInfo.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorSession.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRMultiFactorResolver.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthCredential.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIROAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTwitterAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUser.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserInfo.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRUserMetadata.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthCredential.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneAuthProvider.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorAssertion.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorGenerator.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRPhoneMultiFactorInfo.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPMultiFactorAssertion.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPMultiFactorGenerator.h \
+  /Users/rijan/Desktop/auth_demo/flutter_auth/macos/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRTOTPSecret.h \
+  /Users/rijan/.pub-cache/hosted/pub.dev/firebase_auth-4.17.9/macos/Classes/Public/firebase_auth_messages.g.h
